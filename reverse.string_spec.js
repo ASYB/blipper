@@ -10,6 +10,7 @@ for(var i = 0; i<strings_to_reverse.length;i++ ) {
         .post('http://findthebug.herokuapp.com/reversewords?',{
             string:strings_to_reverse[i]
         })
+        .expectStatus(200)
         .expectBodyContains(
             strings_to_reverse[i].split("").reverse().join("").split(" ").reverse().join(" ")
         )

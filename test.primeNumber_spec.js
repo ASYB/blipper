@@ -15,6 +15,7 @@ for(var i=0;i<numbers.length;i++) {
         .post('http://findthebug.herokuapp.com/primenumbers', {
             number: numbers[i]
         })
+            .expectStatus(200)
         .expectBodyContains(
             true
         )
