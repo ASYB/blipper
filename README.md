@@ -19,7 +19,18 @@ To run this need to install below Modules/tools
 * jasmine-node test.primeNumber_spec.js 
 
 ## Issues found
-      ## Run the files
+      Reverse String
+    
+      Not working when string having Capital letter
+      Not working when string having Special character
+      Not working with numbers like 123
+      
 
-      * jasmine-node reverse.string_spec.js
-      * jasmine-node test.primeNumber_spec.js 
+      Primenumbers
+    
+      Not working when string having Capital letter
+      Not working when string having Special character
+      Not working with numbers like 123
+      
+      I have used the array from 2 to 61 out of this  13 and 61 are failing, instead there are many failures from 2 to 1000. Also I have tested for string value to check the {"message": "Internal Server Error"}
+      
