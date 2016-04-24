@@ -1,6 +1,6 @@
 # blipper
 	I have used frisbyjs to test the assignments 
-	risby is a REST API testing framework built on node.js and Jasmine that makes
+	frisby is a REST API testing framework built on node.js and Jasmine that makes
 	testing API endpoints easy, fast, and fun. Read below for a quick overview, or
 	check out the API documentation.
 Please find below links
