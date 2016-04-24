@@ -19,3 +19,7 @@ To run this need to install below Modules/tools
 * jasmine-node test.primeNumber_spec.js 
 
 ## Issues found
+      ## Run the files
+
+      * jasmine-node reverse.string_spec.js
+      * jasmine-node test.primeNumber_spec.js 
