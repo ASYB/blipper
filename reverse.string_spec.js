@@ -2,7 +2,7 @@
  * Created by z001hgg on 4/24/16.
  */
 var frisby = require('frisby');
-var strings_to_reverse = ["shaik","shaik younus","Shaik Younus","shaik.younus2@target.com","YOUNUS","123 432"," ","123"]
+var strings_to_reverse = ["shaik","shaik younus","Shaik Younus","shaik.younus@gmail.com","YOUNUS","123 432"," ","123"]
 
 for(var i = 0; i<strings_to_reverse.length;i++ ) {
 
