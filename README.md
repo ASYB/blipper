@@ -51,10 +51,10 @@ Failures:
   2) Frisby Test: Reverse a string 
 	[ POST http://findthebug.herokuapp.com/reversewords? ]
    Message:
-     Expected '"shaik.younus2@target.com"
-' to contain 'moc.tegrat@2sunuoy.kiahs'.
+     Expected '"shaik.younus@gmail.com"
+' to contain 'moc.liamg@sunuoy.kiahs'.
    Stacktrace:
-     Error: Expected '"shaik.younus2@target.com"
+     Error: Expected '"shaik.younus@gmail.com"
 ' to contain 'moc.tegrat@2sunuoy.kiahs'.
     at null.<anonymous> (/Users/z001hgg/node_modules/frisby/lib/frisby.js:545:42)
     at null.<anonymous> (/Users/z001hgg/node_modules/frisby/lib/frisby.js:1074:43)
